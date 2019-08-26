@@ -1,10 +1,10 @@
-Welcome to guide template's documentation!
-==========================================
+TrackMate
+=========
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    fijitrackmate
 
