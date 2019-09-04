@@ -34,7 +34,7 @@ Second, using a scripting workflow, we will show:
 **Resources:**
 --------------
 
--  For the manual workflow, an artificial track image \ http://fiji.sc/samples/FakeTracks.tif
+-  For the manual workflow, an artificial track image \ https://samples.fiji.sc/FakeTracks.tif
 
 -  For the scripting workflow, the timelapse data available at \ https://downloads.openmicroscopy.org/images/DV/iain/438CTR/
 
