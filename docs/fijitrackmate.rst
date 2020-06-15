@@ -1,10 +1,10 @@
-**Analyze OMERO timelapse images using the Fiji-TrackMate plugin**
-==================================================================
+Analyze OMERO timelapse images using the Fiji-TrackMate plugin
+==============================================================
 
 In this example we open images from a dataset in OMERO in Fiji and use TrackMate plugin of Fiji to analyze them. For more details about TrackMate, go to \ https://imagej.net/TrackMate\ .
 
-**Description:**
-----------------
+Description
+-----------
 
 First, we will show how to use TrackMate manually. The manual steps are essential to determine the suitable parameters to analyze the images. Note that when using TrackMate manually, the generated tracks cannot be saved as ROIs into OMERO.server.
 
@@ -26,13 +26,13 @@ Second, using a scripting workflow, we will show:
 
    -  Save them as a CSV file and link it to the Project.
 
-**Setup:**
-----------
+Setup
+-----
 
 -  Install Fiji on the local machine with the OMERO.insight-ij plugin. The installation instructions can be found at [LINK TO BE ADDED].
 
-**Resources:**
---------------
+Resources
+---------
 
 -  For the manual workflow, an artificial track image \ https://samples.fiji.sc/FakeTracks.tif
 
