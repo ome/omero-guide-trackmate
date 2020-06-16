@@ -12,7 +12,7 @@ The manual steps are essential to determine the suitable parameters to analyze t
 Setup
 -----
 
--  Install Fiji on the local machine with the OMERO.insight-ij plugin. The installation instructions can be found at `here <https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html>`_.
+- Install Fiji on the local machine with the OMERO.insight-ij plugin. The installation instructions can be found at `here <https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html>`_.
 
 Resources
 ---------
