@@ -1,7 +1,7 @@
 # User guide for TrackMate and OMERO
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/omero-guide-trackmate/master?filepath=notebooks)
 
-[![Documentation Status](https://readthedocs.org/projects/omero-guide-trackmate/badge/?version=latest)](https://omero-guides.readthedocs.io/en/latest/trackmate/docs/index.html)
+[![Documentation Status](https://readthedocs.org/projects/omero-guide-trackmate/badge/?version=latest)](https://omero-guides.readthedocs.io/en/latest/trackmate/docs/index.html).
 
 The documentation is deployed at [How to use TrackMate](https://omero-guides.readthedocs.io/en/latest/trackmate/docs/index.html)
 
@@ -13,7 +13,7 @@ To run the notebooks, you can either [run on mybinder.org](https://mybinder.org/
 
 To build locally:
 
- * Install [Docker](https://www.docker.com/) if required
+ * Install [Docker](https://www.docker.com/) if required.
  * Create a virtual environment and install repo2docker from PyPI.
  * Clone this repository.
  * Run ``repo2docker``. 
