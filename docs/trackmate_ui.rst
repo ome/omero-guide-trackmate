@@ -59,7 +59,7 @@ We will use the manual workflow to explain the steps of the script below.
 
 #. Click ``Next`` in the first dialog that pops up.
 
-#. A new dialog pop ups indicating to select a detector. Select the ``DoG detector``. Click ``Next``.
+#. A new dialog pops up indicating to select a detector. Select the ``DoG detector``. Click ``Next``.
 
    #. Set the ``Estimated blob diameter`` to ``5.0``
 
