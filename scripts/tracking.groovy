@@ -39,7 +39,7 @@
  
 #@ String(label="Username") USERNAME
 #@ String(label="Password", style='password') PASSWORD
-#@ String(label="Host", value='wss://workshop.openmicroscopy.org') HOST
+#@ String(label="Host", value='wss://workshop.openmicroscopy.org/omero-ws') HOST
 #@ Integer(label="Image ID", value=28629) image_id
 
 
