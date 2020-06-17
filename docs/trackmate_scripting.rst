@@ -2,7 +2,7 @@ Analyze OMERO timelapse images using the TrackMate API
 ======================================================
 
 In this example we open an image stored in an OMERO server and use the `TrackMate <https://imagej.net/TrackMate>`_ API to analyze it.
-The core difference of this approach is that the generated track **can** be saved as
+One of the advantages of this approach over the User interface workflow is that the generated track **can** be saved as
 OMERO ROIs.
 
 Description
