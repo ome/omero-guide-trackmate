@@ -58,7 +58,7 @@ ROIs in an OMERO server.
 
 #. Click Run.
 
-#. Go back to OMERO.web to visualize the tracks.
+#. Go back to OMERO.web to visualize the tracks. Double-click on the image in OMERO.web to open it in OMERO.iviewer.
 
 #. Click on the ROI tab and observe that you now have ROIs under which there are Shapes. Each ROI is a collection of shapes. The ROI corresponds to a track in Trackmate. There is always one polyline shape in each ROI which represents the track. The other, elliptical shapes in the same ROI represent the tracked spots.
 
