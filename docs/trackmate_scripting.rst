@@ -54,7 +54,7 @@ ROIs in an OMERO server.
 
 #. Copy the content of :download:`tracking.groovy <../scripts/tracking.groovy>` in the text area.
 
-#. Enter the credentials to connect to the server and select an Image.
+#. A dialog will pop up. Enter the credentials to connect to the server and select an Image.
 
 #. Click Run.
 
