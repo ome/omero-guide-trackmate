@@ -53,7 +53,7 @@ We will use the manual workflow to explain the steps of the script below.
 
       .. image:: images/Trackmate1.png
 
-   #. Select ``Hyperstack`` and click ``OK``. Then, close and re-open the FakeTracks.tif Image from OMERO.
+   #. Select ``Hyperstack`` and click ``OK``. Then, close and re-open the `FakeTracks.tif` Image from OMERO.
 
 #. Go to ``Plugins > Tracking > TrackMate``.
 
