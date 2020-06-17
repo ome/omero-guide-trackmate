@@ -37,7 +37,7 @@ We will use the manual workflow to explain the steps of the script below.
    is listed. Click on the *plus* icon to add a new line to the list
    and type into the line the server address.
 
-#. Click Apply.
+#. Click *Apply*.
 
    .. image:: images/manual2.png
 
