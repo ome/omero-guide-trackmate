@@ -20,7 +20,7 @@ We will show:
 
 -  How to create a TrackMate model using its API.
 
--  How to save the tracks as polygons ROIs in OMERO.
+-  How to save the tracks as polygon ROIs in OMERO.
 
 
 Setup
@@ -124,4 +124,3 @@ In order the use the methods implemented above in a proper standalone script,
 
 .. literalinclude:: ../scripts/tracking.groovy
     :start-after: // Main
-
