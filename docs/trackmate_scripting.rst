@@ -52,7 +52,7 @@ ROIs in an OMERO server.
 
 #. Copy the content of :download:`tracking.groovy <../scripts/tracking.groovy>` in the text area.
 
-#. A dialog will pop up. Enter the credentials to connect to the server and select an Image.
+#. A dialog will pop up. Enter the credentials to connect to the server and select an Image. If you are not using websockets i.e. no ``wss`` in front of the host name, the port value needs to be changed to ``4064``.
 
 #. Click Run.
 

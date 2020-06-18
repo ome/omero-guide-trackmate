@@ -40,6 +40,7 @@
 #@ String(label="Username") USERNAME
 #@ String(label="Password", style='password') PASSWORD
 #@ String(label="Host", value='wss://workshop.openmicroscopy.org/omero-ws') HOST
+#@ String(label="Port", value=443) PORT
 #@ Integer(label="Image ID", value=28629) image_id
 
 
@@ -103,7 +104,7 @@ def get_image(gateway, image_id) {
 }
 
 // Open-Image
-def open_image_plus(host, username, password, group_id, image_id) {
+def open_image_plus(host, port, username, password, group_id, image_id) {
     "Open the image using the Bio-Formats Importer"
 
     StringBuilder options = new StringBuilder()
@@ -112,7 +113,7 @@ def open_image_plus(host, username, password, group_id, image_id) {
     options.append("\nuser=")
     options.append(username.trim())
     options.append("\nport=")
-    options.append(443)
+    options.append(port)
     options.append("\npass=")
     options.append(password.trim())
     options.append("\ngroupID=")
@@ -238,7 +239,7 @@ exp = gateway.getLoggedInUser()
 group_id = exp.getGroupId()
 
 image = get_image(gateway, image_id)
-open_image_plus(HOST, USERNAME, PASSWORD, group_id, image_id)
+open_image_plus(HOST, PORT, USERNAME, PASSWORD, group_id, image_id)
 imp = IJ.getImage()
 dx = imp.getCalibration().pixelWidth
 dy = imp.getCalibration().pixelHeight
