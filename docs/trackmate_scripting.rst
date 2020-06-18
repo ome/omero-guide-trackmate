@@ -26,7 +26,7 @@ We will show:
 Setup
 -----
 
-- Install Fiji on the local machine with the OMERO.insight-ij plugin. The installation instructions can be found at `here <https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html>`_.
+- Install Fiji on the local machine with the OMERO.insight-ij plugin, version 5.5.10 or higher. The installation instructions can be found at `here <https://omero-guides.readthedocs.io/en/latest/fiji/docs/installation.html>`_.
 
 Resources
 ---------
