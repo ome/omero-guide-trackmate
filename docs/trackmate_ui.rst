@@ -43,7 +43,7 @@ We will use the manual workflow to explain the steps of the script below.
 
 #.  Enter your credentials and click *Login*.
 
-#. Browse the Dataset `artificial-trackmate`.
+#. Browse the Dataset where your image to be tracked is located, e.g. `artificial-trackmate`.
 
 #. Double-click on the `FakeTracks.tif` Image to open it in Fiji.
 
