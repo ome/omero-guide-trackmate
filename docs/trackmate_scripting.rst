@@ -39,7 +39,7 @@ Step-by-Step
 ------------
 
 In this section, we go through the steps required to analyze the data.
-The script used in this document is :download:`tracking.groovy <../scripts/tracking.groovy>`.
+The script used in this document is :download:`tracking.groovy <../scripts/tracking.groovy>`. The script follows similar steps than the ones used via the User Interface, see :doc:`trackmate_ui`.
 
 One advantage of the scripting approach is that we can save the generated tracks as 
 ROIs in an OMERO server.

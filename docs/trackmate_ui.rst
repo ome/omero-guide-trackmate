@@ -23,8 +23,6 @@ Resources
 Step-by-Step
 ------------
 
-We will use the manual workflow to explain the steps of the script below.
-
 #. Launch Fiji.
 
 #. Go to *Plugins > OMERO > Connect* To OMERO. This will show a login
