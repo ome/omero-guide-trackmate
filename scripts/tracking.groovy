@@ -199,7 +199,7 @@ def convert_tracks(model, dx, dy) {
             y = spot.getFeature('POSITION_Y')/dy
             r = spot.getFeature('RADIUS')
             z = spot.getFeature('POSITION_Z')
-            t = spot.getFeature('POSITION_T')
+            t = spot.getFeature('FRAME')
             // Save spot as Point in OMERO
             ellipse = new EllipseData(x, y, r, r)
             ellipse.setZ((int) z)
