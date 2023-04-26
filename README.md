@@ -2,7 +2,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/omero-guide-trackmate/master?filepath=notebooks)
 [![Documentation Status](https://readthedocs.org/projects/omero-guide-trackmate/badge/?version=latest)](https://omero-guides.readthedocs.io/en/latest/trackmate/docs/index.html).
 [![Actions Status](https://github.com/ome/omero-guide-trackmate/workflows/repo2docker/badge.svg)](https://github.com/ome/omero-guide-trackmate/actions)
-[![Actions Status](https://github.com/ome/omero-guide-trackmate/workflows/sphinx/badge.svg)](https://github.com/ome/omero-guide-trackmate/actions)
 
 The documentation is deployed at [How to use TrackMate](https://omero-guides.readthedocs.io/en/latest/trackmate/docs/index.html)
 
